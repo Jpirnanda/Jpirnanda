@@ -13,6 +13,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Eu+sou+um+desenvolvedor;Apaixonado+por+código;E+também+por+café!;" alt="Typing SVG" />
 </div>
+
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,python,django,flask" />
 <!--
 **Jpirnanda/Jpirnanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
