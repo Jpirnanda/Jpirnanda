@@ -15,7 +15,7 @@
 </div>
 
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,python,django,flask" />
+<img src="https://skillicons.dev/icons?i=java,nodejs,react,nextjs,postgres,python,django" />
 <!--
 **Jpirnanda/Jpirnanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
