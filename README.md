@@ -1,6 +1,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpirnanda&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
+<h3 align="center">Minhas Habilidades</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge" />
+</p>
 <!--
 **Jpirnanda/Jpirnanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
