@@ -1,7 +1,6 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=Jpirnanda" alt="Profile views counter" />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jpirnanda" alt="Profile views counter" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jpirnanda&show_icons=true&theme=nord" alt="GitHub Stats" /> </p>
 
 <!--
 **Jpirnanda/Jpirnanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
