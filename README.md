@@ -1,4 +1,4 @@
-<div align="center" style="border: 2px solid red; border-radius: 10px; padding: 20px;">
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpirnanda&layout=compact&theme=radical" alt="Top Languages" />
 
@@ -16,7 +16,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Webdev;Fullstack;" alt="Typing SVG" />
 
-</div>
+
 
 
 
