@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Eu+sou+um+desenvolvedor;Apaixonado+por+código;E+também+por+café!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Webdev; Fullstack" alt="Typing SVG" />
 </div>
 
 
