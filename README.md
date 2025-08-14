@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jpirnanda/Jpirnanda/refs/heads/main/banner.jpg" alt="Banner" />
+</div>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpirnanda&layout=compact&theme=radical" alt="Top Languages" />
 
