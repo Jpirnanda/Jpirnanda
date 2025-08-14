@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Jpirnanda}/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=Jpirnanda" alt="Profile views counter" />
 </div>
 
 <!--
