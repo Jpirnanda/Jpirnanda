@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpirnanda&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpirnanda&layout=donut&theme=radical" alt="Top Languages" />
 </div>
 <hr style="border-top: 1px solid #555; margin: 20px 0;">
 
